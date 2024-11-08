@@ -1,4 +1,4 @@
-# Ithancito-Pedrito-Alvarito
+# Ithan-Pedro-Alvaro
 Ramo de GITHUB (MICROSOFT LEARN)_002V
 
 Recetario Abierto
