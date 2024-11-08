@@ -1,8 +1,8 @@
-Descripción
+**Descripción**
 
 El arroz con huevo frito es un plato clásico, rápido y delicioso que combina arroz blanco con un huevo frito encima. Perfecto para un almuerzo o cena ligera, o incluso como acompañante. Es un platillo sencillo pero reconfortante, ideal para aprovechar sobras de arroz.
 
-Ingredientes
+**Ingredientes**
 
 1 taza de arroz blanco (preferentemente ya cocido, si es arroz sobrante mejor)
 1 huevo
@@ -11,7 +11,8 @@ Ingredientes
 Sal al gusto
 Pimienta al gusto
 Agua (para cocinar el arroz, si es necesario)
-Instrucciones
+
+**Instrucciones**
 Cocinar el arroz:
 Si aún no tienes el arroz cocido, pon 1 taza de arroz y 2 tazas de agua en una olla a fuego medio-alto. Agrega una pizca de sal y cocina el arroz hasta que esté suave (aproximadamente 15-20 minutos). Si ya tienes arroz cocido, simplemente salta este paso.
 
