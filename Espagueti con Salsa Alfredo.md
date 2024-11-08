@@ -1,11 +1,19 @@
 Para esta receta necesitamos:
+
    1 paquete Spaguetti Nro 5
+   
    1 cucharada mantequilla vegetal
+   
    4 laminas jamón de pavo cortadas en cuadritos
+   
    1 sachet 200ml de crema espesa de leche o 1 tarro pequeño 220g
+   
    1 sobre queso rallado (40 g.)
+   
    1 taza leche (250 g.)
+   
    Aceite y sal a gusto
+   
 
 Lo primero que necesitamos hacer es cocer los spaguettis indica el envase, con aceite y sal a gusto.
 
