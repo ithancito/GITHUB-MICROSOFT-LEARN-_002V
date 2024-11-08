@@ -1,8 +1,8 @@
-Descripción
+**Descripción**
 
 El purée con salchichas es un plato sencillo y sabroso que combina puré de papas cremoso con salchichas doradas, una opción perfecta para una comida rápida y nutritiva. Puedes añadirle un toque de vegetales o salsa para enriquecer aún más el sabor.
 
-Ingredientes
+**Ingredientes**
 
 4 papas medianas (aproximadamente 500g)
 4 salchichas (pueden ser de cerdo, pollo o la variedad que prefieras)
@@ -12,7 +12,7 @@ Sal y pimienta al gusto
 1 cucharadita de aceite de oliva (para freír las salchichas)
 Opción: queso rallado (para agregar al puré, opcional)
 
-Instrucciones
+**Instrucciones**
 
 Cocinar las papas:
 
