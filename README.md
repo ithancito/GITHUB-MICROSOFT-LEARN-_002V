@@ -1,5 +1,6 @@
 # Ithancito-Pedrito-Alvarito
 Ramo de GITHUB (MICROSOFT LEARN)_002V
+
 Recetario Abierto
 
 Este repositorio tiene como objetivo recopilar una gran variedad de recetas de cocina fáciles de seguir y adaptables a diferentes gustos y necesidades. Aquí podrás encontrar desde recetas tradicionales hasta creaciones innovadoras para preparar en casa.
