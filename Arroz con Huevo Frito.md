@@ -15,8 +15,7 @@ Agua (para cocinar el arroz, si es necesario)
 **Instrucciones**
 
 Cocinar el arroz:
-
-Si aún no tienes el arroz cocido, pon 1 taza de arroz y 2 tazas de agua en una olla a fuego medio-alto. Agrega una pizca de sal y cocina el arroz hasta que esté suave (aproximadamente 15-20 minutos). Si ya tienes arroz cocido, simplemente salta este paso.
+ Si aún no tienes el arroz cocido, pon 1 taza de arroz y 2 tazas de agua en una olla a fuego medio-alto. Agrega una pizca de sal y cocina el arroz hasta que esté suave (aproximadamente 15-20 minutos). Si ya tienes arroz cocido, simplemente salta este paso.
 
 Freír el huevo:
 En una sartén, calienta la cucharada de aceite a fuego medio-alto. Una vez caliente, rompe el huevo con cuidado y ponlo en la sartén. Fría hasta que la clara esté completamente cocida pero la yema siga intacta (aproximadamente 3-4 minutos). Si prefieres el huevo más cocido, puedes voltear el huevo y freírlo por unos segundos adicionales.
