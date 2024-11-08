@@ -1,5 +1,3 @@
-Purée con Salchichas
-
 Descripción
 
 El purée con salchichas es un plato sencillo y sabroso que combina puré de papas cremoso con salchichas doradas, una opción perfecta para una comida rápida y nutritiva. Puedes añadirle un toque de vegetales o salsa para enriquecer aún más el sabor.
